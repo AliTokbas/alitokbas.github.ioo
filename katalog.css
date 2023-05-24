@@ -130,6 +130,7 @@ ul {
 .header {
     position: relative;
     top: 100px;
+    padding-top: 75px;
 
 }
 
@@ -137,7 +138,7 @@ ul {
     text-align: center;
     padding-bottom: 0;
     color: black;
-    margin-top: 50px;
+   
     font-weight: bold;
     font-family: 'Libre Caslon Text', serif;
 }
